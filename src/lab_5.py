@@ -1,7 +1,6 @@
 import logging
 import numpy as np
 
-
 def subtract(a, b):
     return a - b
 
